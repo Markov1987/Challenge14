@@ -26,3 +26,7 @@ Both insights describe the main customers' group as Men working in offices.
 New York's statistics show that for a new market, an implementation must consider offering stations that may allow transportation between offices hubs and living hubs that seem to be NY's main usage. As potential clients, the first target is men. 
 
 Since working hours got small usage, we may want to try to promote those hours through lower pricing or any other mechanism.
+
+See full slides at the following link: 
+
+https://public.tableau.com/app/profile/marco.antonio.salazar.p.rez/viz/Challenge14-MASP/NYCCitibikeanalysis
